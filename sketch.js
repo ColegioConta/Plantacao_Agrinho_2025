@@ -7,7 +7,7 @@ let sementes = 5
 let tutorial 
 
 function preload() {
-  tutorial = loadImage("/img/tuto.png");
+  tutorial = loadImage("tuto.png");
 }
 
 //CRIANDO AS PLANTAS
