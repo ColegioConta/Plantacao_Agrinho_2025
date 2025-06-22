@@ -8,4 +8,9 @@ Plante e venda para conseguir mais sementes.
 
 Conseguindo a fantástica fazenda de 60 plantas, você completa o desafio!
 
+# COMO USAR O PROJETO
+
 ![tuto](tuto.png)
+
+# TESTE NO GITHUB PAGES!
+
