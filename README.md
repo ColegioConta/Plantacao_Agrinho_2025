@@ -15,3 +15,10 @@ Conseguindo a fantástica fazenda de 60 plantas, você completa o desafio!
 # :ear_of_rice: TESTE NO GITHUB PAGES! :ear_of_rice:
 
 # [:leaves: É SÓ CLICAR AQUI :leaves:](https://colegioconta.github.io/Plantacao_Agrinho_2025/)
+
+# CRÉDITOS
+
+DESENVOLVIDO ATRAVÉS DO P5.JS. ACESSE: https://editor.p5js.org/
+
+PARTE GRÁFICA FEITA COM CANVA. ACESSE: https://www.canva.com/pt_br/
+
